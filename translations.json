@@ -1,0 +1,176 @@
+{
+    "hello": {
+      "es": "hola",
+      "fr": "salut"
+    },
+    "hello world": {
+      "es": "hola mundo",
+      "fr": "bonjour le monde"
+    },
+    "how are you": {
+      "es": "¿cómo estás?",
+      "fr": "comment ça va?"
+    },
+    "good morning": {
+      "es": "buenos días",
+      "fr": "bonjour"
+    },
+    "good night": {
+      "es": "buenas noches",
+      "fr": "bonne nuit"
+    },
+    "thank you": {
+      "es": "gracias",
+      "fr": "merci"
+    },
+    "please": {
+      "es": "por favor",
+      "fr": "s'il vous plaît"
+    },
+    "yes": {
+      "es": "sí",
+      "fr": "oui"
+    },
+    "no": {
+      "es": "no",
+      "fr": "non"
+    },
+    "start recording": {
+      "es": "comenzar grabación",
+      "fr": "démarrer l'enregistrement"
+    },
+    "stop recording": {
+      "es": "detener grabación",
+      "fr": "arrêter l'enregistrement"
+    },
+    "save note": {
+      "es": "guardar nota",
+      "fr": "enregistrer la note"
+    },
+    "clear screen": {
+      "es": "limpiar pantalla",
+      "fr": "effacer l'écran"
+    },
+    "exit program": {
+      "es": "salir del programa",
+      "fr": "quitter le programme"
+    },
+    "shutdown": {
+      "es": "apagar",
+      "fr": "arrêter"
+    },
+    "open file": {
+      "es": "abrir archivo",
+      "fr": "ouvrir le fichier"
+    },
+    "close window": {
+      "es": "cerrar ventana",
+      "fr": "fermer la fenêtre"
+    },
+    "next": {
+      "es": "siguiente",
+      "fr": "suivant"
+    },
+    "previous": {
+      "es": "anterior",
+      "fr": "précédent"
+    },
+    "goodbye": {
+      "es": "adiós",
+      "fr": "au revoir"
+    },
+    "open settings": {
+      "es": "abrir configuraciones",
+      "fr": "ouvrir les paramètres"
+    },
+    "close settings": {
+      "es": "cerrar configuraciones",
+      "fr": "fermer les paramètres"
+    },
+    "increase volume": {
+        "es": "subir volumen",
+        "fr": "augmenter le volume"
+    },
+    "decrease volume": {
+        "es": "bajar volumen",
+        "fr": "diminuer le volume"
+    },
+    "mute": {
+        "es": "silenciar",
+        "fr": "mettre en sourdine"
+    },
+    "unmute": {
+        "es": "activar sonido",
+        "fr": "réactiver le son"
+    },
+    "play music": {
+        "es": "reproducir música",
+        "fr": "jouer de la musique"
+    },
+    "pause music": {
+        "es": "pausar música",
+        "fr": "mettre la musique en pause"
+    },
+    "next song": {
+        "es": "siguiente canción",
+        "fr": "chanson suivante"
+    },
+    "previous song": {
+        "es": "canción anterior",
+        "fr": "chanson précédente"
+    },
+    "weather today": {
+        "es": "clima hoy",
+        "fr": "météo aujourd'hui"
+    },
+    "what's the weather": {
+        "es": "¿qué tiempo hace?",
+        "fr": "quel temps fait-il?"
+    },
+    "tell me a joke": {
+        "es": "cuéntame un chiste",
+        "fr": "raconte-moi une blague"
+    },
+    "what is the date today": {
+        "es": "¿qué fecha es hoy?",
+        "fr": "quelle est la date aujourd'hui?"
+    },
+    "call mom": {
+        "es": "llamar a mamá",
+        "fr": "appeler maman"
+    },
+    "send email": {
+        "es": "enviar correo",
+        "fr": "envoyer un courriel"
+    },
+    "set a reminder": {
+        "es": "establecer un recordatorio",
+        "fr": "configurer un rappel"
+    },
+    "open browser": {
+        "es": "abrir navegador",
+        "fr": "ouvrir le navigateur"
+    },
+    "search web": {
+        "es": "buscar en la web",
+        "fr": "rechercher sur le web"
+    },
+    "switch to dark mode": {
+        "es": "activar modo oscuro",
+        "fr": "passer en mode sombre"
+    },
+    "switch to light mode": {
+        "es": "activar modo claro",
+        "fr": "passer en mode clair"
+    },
+    "take a screenshot": {
+        "es": "tomar captura de pantalla",
+        "fr": "prendre une capture d'écran"
+    },
+    "lock screen": {
+        "es": "bloquear pantalla",
+        "fr": "verrouiller l'écran"
+        }
+      }
+      
+  
